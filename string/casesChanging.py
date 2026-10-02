@@ -1,0 +1,12 @@
+stringValue = input('Enter a String value : ')
+print(stringValue.upper())
+print(stringValue.lower())
+print(stringValue.title())
+print(stringValue.isalnum())
+print(stringValue.isalpha())
+print(stringValue.capitalize())
+print(stringValue.casefold())
+print(stringValue.isdecimal())
+print(stringValue.isdigit())
+print(stringValue.swapcase())
+
